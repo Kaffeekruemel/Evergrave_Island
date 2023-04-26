@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/GithubReps/Evergrave/Content/Characters/Mainchar_bird/Mainchar_Anims/ALS_N_Run_F.uasset",
+				"X:/GithubReps/Evergrave/Content/Maps/TechTestLevels/Nima_Level/Nima_Level_BuiltData.uasset",
+				"X:/GithubReps/Evergrave/Content/Maps/TechTestLevels/Nima_Level/Nima_Level.umap",
+				"X:/GithubReps/Evergrave/Content/Characters/Mainchar_bird/mainchar_RigExp.uasset"
+			]
+		}
+	]
+}

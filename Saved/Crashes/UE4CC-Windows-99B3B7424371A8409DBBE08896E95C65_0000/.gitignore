@@ -1,0 +1,4 @@
+*.runtime-xml
+*.ini
+*.log
+*.dmp

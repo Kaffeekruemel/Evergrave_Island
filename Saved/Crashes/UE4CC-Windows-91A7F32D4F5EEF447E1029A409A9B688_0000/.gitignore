@@ -1,0 +1,4 @@
+*.ini
+/CrashContext.runtime-xml
+/EvergraveIsland.log
+/UE4Minidump.dmp
